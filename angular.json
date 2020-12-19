@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "guess-who"
+    }
+  },
+  "defaultProject": "guess-who",
+  "cli": {
+    "analytics": "b6a4be28-752b-47fa-b03f-cf75575147c0"
+  }
 }
